@@ -3,4 +3,5 @@ hyperion
 rhea
 mimas
 dione
-etc
+phoebe
+Tethys
